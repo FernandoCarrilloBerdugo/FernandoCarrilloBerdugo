@@ -16,10 +16,10 @@ I am a Full Stack Developer with experience designing, building, testing and dep
 
 Projects 💡
 #### [Henry Club](https://club-henry.vercel.app/)
-![alt text](https://github.com/FernandoCarrilloBerdugo/FernandoCarrilloBerdugo/blob/main/henryclub.png?raw=true)
+![alt text](https://github.com/FernandoCarrilloBerdugo/FernandoCarrilloBerdugo/blob/main/henryclub.PNG?raw=true)
 
 #### [Videogames App](https://videogame-pi.vercel.app/)
-![alt text](https://github.com/FernandoCarrilloBerdugo/FernandoCarrilloBerdugo/blob/main/videogamesapp.png?raw=true)
+![alt text](https://github.com/FernandoCarrilloBerdugo/FernandoCarrilloBerdugo/blob/main/videogamesapp.PNG?raw=true)
 
 ### Contact me! 📱
 
